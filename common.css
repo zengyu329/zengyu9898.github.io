@@ -1,0 +1,7 @@
+/* 公共样式 */
+*{font-family:"微软雅黑", "新宋体"; }
+ul{ padding:0;list-style:none}
+html{overflow-y:scroll;}
+body,html{ margin:0;padding:0}
+a{text-decoration:none;}
+a:hover{ text-decoration:none; }
